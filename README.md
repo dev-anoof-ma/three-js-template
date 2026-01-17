@@ -2,7 +2,7 @@
 
 > A professional, production-ready template for building stunning 3D web experiences with Three.js, TypeScript, and Tailwind CSS.
 
-![Three.js Template Preview](./public/Screenshot 2026-01-17 100950.png)
+![Three.js Template Preview](./public/Screenshot.png)
 
 ## ✨ Features
 
